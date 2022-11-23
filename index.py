@@ -1,1 +1,1 @@
-print("ghghjghkj")
+изменен в ветке new_branch
